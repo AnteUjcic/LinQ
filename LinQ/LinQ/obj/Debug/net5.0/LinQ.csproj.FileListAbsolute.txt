@@ -1,0 +1,15 @@
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\LinQ.exe
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\LinQ.deps.json
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.json
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\LinQ.dll
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\ref\LinQ.dll
+C:\Users\anteu\source\repos\LinQ\LinQ\bin\Debug\net5.0\LinQ.pdb
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfo.cs
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.dll
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\ref\LinQ.dll
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.pdb
+C:\Users\anteu\source\repos\LinQ\LinQ\obj\Debug\net5.0\LinQ.genruntimeconfig.cache

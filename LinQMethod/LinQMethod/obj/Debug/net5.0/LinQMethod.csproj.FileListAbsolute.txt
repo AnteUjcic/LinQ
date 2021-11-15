@@ -1,0 +1,15 @@
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\LinQMethod.exe
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\LinQMethod.deps.json
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\LinQMethod.runtimeconfig.json
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\LinQMethod.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\LinQMethod.dll
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\ref\LinQMethod.dll
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\bin\Debug\net5.0\LinQMethod.pdb
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.AssemblyInfo.cs
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.dll
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\ref\LinQMethod.dll
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.pdb
+C:\Users\anteu\source\repos\LinQMethod\LinQMethod\obj\Debug\net5.0\LinQMethod.genruntimeconfig.cache
